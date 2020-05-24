@@ -98,7 +98,7 @@ print  """
 \033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mBlackMafia\033[1;95m♡╰──────────•◈•──────────╯♡"""
 
 CorrectUsername = "rixo"
-CorrectPassword = "rixo"
+CorrectPassword = "rixo98"
 
 loop = 'true'
 while (loop == 'true'):
